@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\c00217557\desktop\missiles\main.cpp(131): warning C4018: '<': signed/unsigned mismatch
+  Missiles.vcxproj -> C:\Users\C00217557\Desktop\Missiles\Debug\Missiles.exe
+  Missiles.vcxproj -> C:\Users\C00217557\Desktop\Missiles\Debug\Missiles.pdb (Partial PDB)
